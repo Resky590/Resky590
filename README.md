@@ -1,71 +1,72 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3572A5&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Res+Ky;Web+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
-
-  <p align="center">
-    <a href="https://instagram.com/Reskyedge" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://linkedin.com/in/muhammad-resky-b19b69386" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://tiktok.com/@faurezedge" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
-    </a>
-  </p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&pause=1000&color=F7F7F7&background=0D111700&center=true&vCenter=true&width=500&lines=WEB+DEVELOPER.;UI%2FUX+DESIGNER.;CREATIVE+CODER." alt="Typing SVG" />
 </div>
 
-<hr/>
-
-### 👨‍💻 About Me
-
-> *"Design is not just what it looks like and feels like. Design is how it works."*
-
-Halo, saya **Res Ky**. Saya fokus pada pembuatan website dan tampilan antarmuka yang modern, rapi, dan nyaman digunakan. Saya senang mengeksplorasi desain, animasi, serta cara-cara kreatif untuk membuat sebuah halaman web tampil lebih hidup.
-
-Bagi saya, setiap proyek adalah kesempatan untuk belajar, menyelesaikan masalah, dan menciptakan pengalaman yang lebih baik bagi pengguna. Saya terus mengembangkan keterampilan agar hasil kerja saya tidak hanya bagus secara visual, tetapi juga fungsional dan mudah dipahami.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-Saya mengelompokkan kemampuan saya agar lebih mudah dibaca:
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat-square&logo=CrateDB&logoColor=white) |
-| **Design** | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
-| **Tools** | ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) |
-
----
-
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Resky590&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky590&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
+  <i>"Crafting digital experiences with code and creativity."</i>
 </div>
 <br/>
+
+<table>
+  <tr>
+    <td valign="top" width="35%">
+      <div align="center">
+        <br/>
+        <img src="https://github.com/Resky590.png" width="120" style="border-radius: 50%; border: 2px solid #30363d;" alt="Avatar"/><br/>
+        <h3>Muhamad Resky</h3>
+        <p>🇮🇩 Indonesia</p>
+      </div>
+      <br/>
+       <h4 align="center">CONNECT</h4>
+       <p align="center">
+        <a href="https://instagram.com/Reskyedge"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a><br/>
+        <a href="https://linkedin.com/in/muhammad-resky-b19b69386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><br/>
+        <a href="https://tiktok.com/@faurezedge"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+      </p>
+      <hr/>
+      <h4 align="center">SUPPORT</h4>
+      <p align="center">
+        <a href="https://buymeacoffee.com/reskydev"><img src="https://img.shields.io/badge/Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black"/></a>
+      </p>
+    </td>
+    <td valign="top" width="65%">
+      <h3>🚀 About Me</h3>
+      <p>
+        Saya <b>Res Ky</b>. Saya memandang kode sebagai seni. Fokus saya adalah menciptakan antarmuka web yang tidak hanya berfungsi, tetapi juga memiliki <i>jiwa</i>. 
+        <br/><br/>
+        🔭 <b>Currently working on:</b> Web Aesthetic Projects<br/>
+        🌱 <b>Learning:</b> Advanced Animation & 3D Web<br/>
+        ⚡ <b>Fun fact:</b> Saya terobsesi dengan detail pixel-perfect.
+      </p>
+      
+      <hr/>
+      
+      <h3>⚡ Tech Arsenal</h3>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      
+      <hr/>
+      
+      <h3>📈 Performance</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Resky590&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky590&layout=compact&theme=radical&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Resky590&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
-<div align="center">
-  
-  ![](https://visitcount.itsvg.in/api?id=Resky590&icon=5&color=12)
-
   <br/>
-  
-  **Support My Work**
-  <br/>
-  <a href="https://buymeacoffee.com/reskydev"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-  <a href="https://paypal.me/reskydev"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
-  <a href="https://patreon.com/reskydev"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-  <a href="https://ko-fi.com/reskydev"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-  
+  <img src="https://visitcount.itsvg.in/api?id=Resky590&icon=3&color=10" />
 </div>
