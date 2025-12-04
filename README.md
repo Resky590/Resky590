@@ -1,13 +1,13 @@
 <div align="center">
-<!-- FIX: Corrected the Typing SVG URL. -->
-<img src="[https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D36%26pause%3D1000%26color%3D00C4CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D490%26lines%3DFULL-STACK%2BCRAFTSMAN%3BUI%252FUX%2BARCHITECT%3BCREATIVE%2BTECHNOLOGIST](https://thumbs.dreamstime.com/b/hands-typing-keyboard-businessman-laptop-49541042.jpg)" alt="Typing SVG" />
+<!-- FIX: URL Panggilan Gambar sudah Dikoreksi -->
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D36%26pause%3D1000%26color%3D00C4CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D490%26lines%3DFULL-STACK%2BCRAFTSMAN%3BUI%252FUX%2BARCHITECT%3BCREATIVE%2BTECHNOLOGIST" alt="Typing SVG" />
 
 <p style="font-size: 1.25em; margin-top: 10px; color: #767676;">
 <i>"Crafting digital experiences with precision and passion."</i>
 </p>
 </div>
 
-<!-- MAIN PREMIUM LAYOUT: Darker theme simulation for card background -->
+<!-- MAIN PREMIUM LAYOUT: Menggunakan latar belakang gelap (#1F2229) untuk tampilan High-Contrast. -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
 
@@ -38,7 +38,7 @@
 
 <!-- RIGHT COLUMN: About, Tech, Stats -->
 
-<div style="flex: 2; min-width: 400px; color: #333;">
+<div style="flex: 2; min-width: 400px;">
 
 <!-- About Me -->
 <h2 style="color: #00C4CC;"><span style="color: #00C4CC;">💡</span> About Me</h2>
@@ -46,8 +46,8 @@
 Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kode sebagai medium untuk menciptakan **interaksi digital yang berjiwa**. Fokus utama saya adalah membangun aplikasi *Full-Stack* dengan penekanan kuat pada **pengalaman pengguna (UI/UX)** yang intuitif dan mencapai standar **pixel-perfect**. 
 </p>
 
-<!-- PREMIUM Highlight Block -->
-<div style="padding: 20px; border-left: 5px solid #00C4CC; margin: 25px 0; background-color: #f0f8ff; border-radius: 4px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.05);">
+<!-- PREMIUM Highlight Block: Menggunakan latar belakang gelap agar serasi dengan kartu di sebelah kiri dan tema gelap. -->
+<div style="padding: 20px; border-left: 5px solid #00C4CC; margin: 25px 0; background-color: #2D323A; border-radius: 4px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3); color: #E0E0E0;">
   🔭 <b>Currently working on:</b> Web Aesthetic Projects & Scalable Backend Solutions<br/>
   🌱 <b>Learning:</b> Advanced Animation, WebGL, & Real-time Data Architectures<br/>
   ⚡ <b>Fun fact:</b> Saya selalu menguji responsivitas pada 5 ukuran layar berbeda.
@@ -76,7 +76,7 @@ Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kod
 <!-- GitHub Stats -->
 <h2 style="color: #00C4CC;"><span style="color: #00C4CC;">📊</span> GitHub Performance</h2>
 <p align="center">
-  <!-- PREMIUM LOOK: Custom dark theme and high-contrast accent colors -->
+  <!-- PREMIUM LOOK: Custom dark theme dan warna aksen High-Contrast sudah diterapkan pada card stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Resky590&show_icons=true&theme=dark&hide_border=false&border_radius=10&count_private=true&line_height=25&title_color=00C4CC&icon_color=00C4CC&text_color=E0E0E0&bg_color=1F2229&border_color=00C4CC" width="100%" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky590&layout=compact&theme=dark&hide_border=false&border_radius=10&title_color=00C4CC&icon_color=00C4CC&text_color=E0E0E0&bg_color=1F2229&border_color=00C4CC" width="100%" />
@@ -87,6 +87,6 @@ Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kod
 </div>
 
 <div align="center" style="margin-top: 25px;">
-<!-- FIX: Corrected the Visitor Counter URL. -->
+<!-- FIX: URL Panggilan Gambar sudah Dikoreksi -->
 <img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3DResky590%26icon%3D3%26color%3D00C4CC%26font%3Dsans" alt="Visitor Count"/>
 </div>
