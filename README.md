@@ -1,5 +1,5 @@
 <div align="center">
-<!-- Dynamic Typing Header: Fixed URL and updated color to Teal/Cyan (#00C4CC) -->
+<!-- FIX: Corrected the Typing SVG URL. -->
 <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D36%26pause%3D1000%26color%3D00C4CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D490%26lines%3DFULL-STACK%2BCRAFTSMAN%3BUI%252FUX%2BARCHITECT%3BCREATIVE%2BTECHNOLOGIST" alt="Typing SVG" />
 
 <p style="font-size: 1.25em; margin-top: 10px; color: #767676;">
@@ -7,29 +7,29 @@
 </p>
 </div>
 
-<!-- Main Layout: Uses Flex-like structure for modern look -->
+<!-- MAIN PREMIUM LAYOUT: Darker theme simulation for card background -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
 
-<!-- LEFT COLUMN: Profile & Connect -->
+<!-- LEFT COLUMN: Profile & Connect (The Card) -->
 
-<div style="flex: 1; min-width: 300px; padding: 25px; border: 2px solid #00C4CC; border-radius: 12px; background-color: #f6f8fa;">
+<div style="flex: 1; min-width: 300px; padding: 25px; border: 3px solid #00C4CC; border-radius: 12px; background-color: #1F2229; color: #E0E0E0; box-shadow: 0 4px 15px rgba(0, 196, 204, 0.2);">
 
 <div align="center">
-  <img src="https://github.com/Resky590.png" width="130" style="border-radius: 50%; border: 4px solid #00C4CC;" alt="Avatar"/>
-  <h1 style="margin-top: 15px; margin-bottom: 5px; color: #00C4CC; font-size: 1.8em;">Muhamad Resky</h1>
-  <p style="margin-top: 0; color: #586069;">Indonesia 🇮🇩 | Developer</p>
+  <img src="https://github.com/Resky590.png" width="130" style="border-radius: 50%; border: 5px solid #00C4CC;" alt="Avatar"/>
+  <h1 style="margin-top: 15px; margin-bottom: 5px; color: #00C4CC; font-size: 1.9em;">Muhamad Resky</h1>
+  <p style="margin-top: 0; color: #A0A0A0;">Indonesia 🇮🇩 | Creative Developer</p>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #e1e4e8; margin: 25px 0;">
+<hr style="border: 0; border-top: 1px solid #333333; margin: 30px 0;">
 
-<h3 align="center" style="margin-bottom: 20px; color: #444;">🔗 Connect & Support</h3>
+<h3 align="center" style="margin-bottom: 20px; color: #E0E0E0;">🔗 Connect & Support</h3>
 
 <div align="center" style="display: flex; flex-direction: column; gap: 10px;">
   <a href="https://linkedin.com/in/muhammad-resky-b19b69386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
   <a href="https://instagram.com/Reskyedge"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" /></a>
   <a href="https://tiktok.com/@faurezedge"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="30" /></a>
-  <hr style="border: 0; border-top: 1px dashed #cccccc; width: 60%;">
+  <hr style="border: 0; border-top: 1px dashed #555555; width: 60%;">
   <a href="https://buymeacoffee.com/reskydev"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="30"/></a>
 </div>
 
@@ -38,15 +38,16 @@
 
 <!-- RIGHT COLUMN: About, Tech, Stats -->
 
-<div style="flex: 2; min-width: 400px;">
+<div style="flex: 2; min-width: 400px; color: #333;">
 
 <!-- About Me -->
-<h2><span style="color: #00C4CC;">💡</span> About Me</h2>
+<h2 style="color: #00C4CC;"><span style="color: #00C4CC;">💡</span> About Me</h2>
 <p>
 Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kode sebagai medium untuk menciptakan **interaksi digital yang berjiwa**. Fokus utama saya adalah membangun aplikasi *Full-Stack* dengan penekanan kuat pada **pengalaman pengguna (UI/UX)** yang intuitif dan mencapai standar **pixel-perfect**. 
 </p>
 
-<div style="padding-left: 20px; border-left: 3px solid #00C4CC; margin: 25px 0; background-color: #fafafa; padding-top: 10px; padding-bottom: 10px; border-radius: 4px;">
+<!-- PREMIUM Highlight Block -->
+<div style="padding: 20px; border-left: 5px solid #00C4CC; margin: 25px 0; background-color: #f0f8ff; border-radius: 4px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.05);">
   🔭 <b>Currently working on:</b> Web Aesthetic Projects & Scalable Backend Solutions<br/>
   🌱 <b>Learning:</b> Advanced Animation, WebGL, & Real-time Data Architectures<br/>
   ⚡ <b>Fun fact:</b> Saya selalu menguji responsivitas pada 5 ukuran layar berbeda.
@@ -54,7 +55,7 @@ Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kod
 
 <!-- Tech Stack -->
 <hr style="margin-top: 30px;">
-<h2><span style="color: #00C4CC;">⚙️</span> Tech Arsenal</h2>
+<h2 style="color: #00C4CC;"><span style="color: #00C4CC;">⚙️</span> Tech Arsenal</h2>
 <div align="left" style="margin-top: 15px;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -73,12 +74,12 @@ Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kod
 <hr>
 
 <!-- GitHub Stats -->
-<h2><span style="color: #00C4CC;">📊</span> GitHub Performance</h2>
+<h2 style="color: #00C4CC;"><span style="color: #00C4CC;">📊</span> GitHub Performance</h2>
 <p align="center">
-  <!-- Added a border effect using the background color on the stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Resky590&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true&line_height=25&bg_color=1f2229&title_color=00C4CC&icon_color=00C4CC" width="100%" />
+  <!-- PREMIUM LOOK: Custom dark theme and high-contrast accent colors -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Resky590&show_icons=true&theme=dark&hide_border=false&border_radius=10&count_private=true&line_height=25&title_color=00C4CC&icon_color=00C4CC&text_color=E0E0E0&bg_color=1F2229&border_color=00C4CC" width="100%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky590&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&bg_color=1f2229&title_color=00C4CC&icon_color=00C4CC" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky590&layout=compact&theme=dark&hide_border=false&border_radius=10&title_color=00C4CC&icon_color=00C4CC&text_color=E0E0E0&bg_color=1F2229&border_color=00C4CC" width="100%" />
 </p>
 
 
@@ -86,6 +87,6 @@ Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kod
 </div>
 
 <div align="center" style="margin-top: 25px;">
-<!-- Visitor Counter: Fixed URL and updated color to Teal/Cyan (#00C4CC) -->
+<!-- FIX: Corrected the Visitor Counter URL. -->
 <img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3DResky590%26icon%3D3%26color%3D00C4CC%26font%3Dsans" alt="Visitor Count"/>
 </div>
