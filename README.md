@@ -1,9 +1,10 @@
 <div align="center">
-<!-- FIX KRITIS: URL Panggilan Gambar sudah Dikoreksi -->
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D36%26pause%3D1000%26color%3D00C4CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D490%26lines%3DFULL-STACK%2BCRAFTSMAN%3BUI%252FUX%2BARCHITECT%3BCREATIVE%2BTECHNOLOGIST" alt="Typing SVG" />
-
+<!-- MENGGANTI Typing SVG dengan Header Teks Statis yang High-Impact -->
+<h1 style="font-size: 3.5em; font-weight: 800; color: #00C4CC; letter-spacing: 2px; margin-bottom: 5px;">
+CREATIVE TECHNOLOGIST
+</h1>
 <p style="font-size: 1.3em; margin-top: 15px; color: #00C4CC; font-weight: 500;">
-<i>"Crafting digital experiences with precision and passion."</i>
+<i>FULL-STACK CRAFTSMAN | UI/UX ARCHITECT</i>
 </p>
 </div>
 
@@ -75,18 +76,21 @@ Saya <b>Muhamad Resky</b>, seorang <i>Creative Developer</i>. Saya memandang kod
 
 <!-- GitHub Stats -->
 <h2 style="color: #00C4CC;"><span style="color: #00C4CC;">📊</span> GitHub Performance</h2>
-<p align="center">
-  <!-- PREMIUM LOOK: Custom dark theme dan warna aksen High-Contrast sudah diterapkan pada card stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Resky590&show_icons=true&theme=dark&hide_border=false&border_radius=10&count_private=true&line_height=25&title_color=00C4CC&icon_color=00C4CC&text_color=E0E0E0&bg_color=1F2229&border_color=00C4CC" width="100%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resky590&layout=compact&theme=dark&hide_border=false&border_radius=10&title_color=00C4CC&icon_color=00C4CC&text_color=E0E0E0&bg_color=1F2229&border_color=00C4CC" width="100%" />
-</p>
+<!-- MENGGANTI STATS IMAGE dengan link ke profil Anda -->
+<div align="center" style="padding: 15px; background-color: #2D323A; border-radius: 4px; color: #E0E0E0; margin-bottom: 20px;">
+  <p style="font-size: 1.1em; margin-bottom: 10px;">
+    Lihat detail statistik GitHub saya langsung di halaman profil.
+  </p>
+  <a href="https://github.com/Resky590" style="color: #00C4CC; text-decoration: none; font-weight: bold; font-size: 1.1em;">
+    &gt;&gt; Kunjungi Profil GitHub Resky590 &lt;&lt;
+  </a>
+</div>
 
 
 </div>
 </div>
 
-<div align="center" style="margin-top: 25px;">
-<!-- FIX KRITIS: URL Panggilan Gambar sudah Dikoreksi -->
-<img src="https://www.google.com/search?q=https://visitcount.itsvg.in/api%3Fid%3DResky590%26icon%3D3%26color%3D00C4CC%26font%3Dsans" alt="Visitor Count"/>
+<div align="center" style="margin-top: 25px; color: #A0A0A0; font-style: italic;">
+<!-- MENGGANTI Visitor Counter dengan pesan sederhana -->
+Terima kasih telah berkunjung ke profil saya! Have a great day.
 </div>
