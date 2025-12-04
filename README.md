@@ -1,6 +1,6 @@
 <div align="center">
 <!-- FIX: Corrected the Typing SVG URL. -->
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D36%26pause%3D1000%26color%3D00C4CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D490%26lines%3DFULL-STACK%2BCRAFTSMAN%3BUI%252FUX%2BARCHITECT%3BCREATIVE%2BTECHNOLOGIST" alt="Typing SVG" />
+<img src="[https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D36%26pause%3D1000%26color%3D00C4CC%26center%3Dtrue%26vCenter%3Dtrue%26width%3D490%26lines%3DFULL-STACK%2BCRAFTSMAN%3BUI%252FUX%2BARCHITECT%3BCREATIVE%2BTECHNOLOGIST](https://thumbs.dreamstime.com/b/hands-typing-keyboard-businessman-laptop-49541042.jpg)" alt="Typing SVG" />
 
 <p style="font-size: 1.25em; margin-top: 10px; color: #767676;">
 <i>"Crafting digital experiences with precision and passion."</i>
